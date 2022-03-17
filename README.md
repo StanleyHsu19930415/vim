@@ -1,1 +1,2 @@
-# Linux setting
+# Vim
+.vimrc setting
